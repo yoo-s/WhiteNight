@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: 6f1ec80f627200544bde58e63eac1813
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seek_platforms 1_0
+    21300002: Seek_platforms 1_1
+    21300004: Seek_platforms 1_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Seek_platforms 1_0
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 405
+        width: 454
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 12}
+    - name: Seek_platforms 1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 145
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+    - name: Seek_platforms 1_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 701
+        width: 293
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 16}
+  spritePackingTag: 
+  userData: 

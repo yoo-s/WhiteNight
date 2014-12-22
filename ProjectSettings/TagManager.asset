@@ -12,8 +12,8 @@ TagManager:
   Builtin Layer 5: UI
   Builtin Layer 6: 
   Builtin Layer 7: 
-  User Layer 8: Floor
-  User Layer 9: Shootable
+  User Layer 8: main
+  User Layer 9: snow
   User Layer 10: 
   User Layer 11: 
   User Layer 12: 
@@ -40,4 +40,8 @@ TagManager:
   - name: Default
     userID: 0
     uniqueID: 0
+    locked: 0
+  - name: snow
+    userID: 1
+    uniqueID: 2928497237
     locked: 0
